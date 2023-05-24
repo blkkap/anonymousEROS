@@ -90,4 +90,4 @@ if (isAwesome) {
 </div>
 
 
-<img align="left" width="200" height="400" src="images/itachiGIT.png"  />
+<img align="left" width="250" height="400" src="images/itachiGIT.png"  />
