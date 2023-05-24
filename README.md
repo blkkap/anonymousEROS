@@ -88,3 +88,6 @@ if (isAwesome) {
   <img src="https://profile-counter.glitch.me/anonymousEROS/count.svg" />
 
 </div>
+
+
+<img align="left" height="200" src="https://4f.to/img/2022/9/18/221645/large.png"  />
