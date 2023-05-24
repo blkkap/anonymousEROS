@@ -60,8 +60,10 @@
 
 <p align="center">&nbsp;
    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="center"><img width="500" src="https://github-readme-stats.vercel.app/api?username=anonymousEROS&show_icons=true&hide_border=true&show_owner=true&title_color=ff6e96&theme=radical&custom_title=プログラミング統計!"/></a> <br><br>
-  <!-- <img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=Vikash-8090-Yadav&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br> -->
+  <!-- <img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=anonymousEROS&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br> -->
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anonymousEROS&theme=dracula" />
+ 
+<!--  [![anonymousEROS LeetCode stats](https://leetcode-stats-six.vercel.app/?username=blkcap2u&theme=dark)](https://github.com/KnlnKS/leetcode-stats)  -->
 
  ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
  
