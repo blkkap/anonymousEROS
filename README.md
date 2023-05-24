@@ -27,7 +27,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/jaidan-dovala-4299a3117/" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikash-kumar-yadav-8090" height="30" width="40" /></a>
 <a href="https://leetcode.com/blkcap2u/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yadav621gzp/" height="30" width="40" /></a>
 </p>
 
