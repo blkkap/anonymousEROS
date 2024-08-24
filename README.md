@@ -4,7 +4,7 @@
  <div  id="header" align="center">
   <img width =600 height= 250 src="https://media.giphy.com/media/fV0oSDsZ4UgdW/giphy.gif" width="100"/>
 
-  [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/anonymousEROS)
+  [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/blkkap)
 </div>
 
 
@@ -47,7 +47,7 @@
 ### Most used languages 🎨
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-<p align="center">&nbsp;<img width="500" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anonymousEROS&layout=compact&hide=html&theme=dracula&hide_border=true"><br>
+<p align="center">&nbsp;<img width="500" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=blkkap&layout=compact&hide=html&theme=dracula&hide_border=true"><br>
 <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
   
    
@@ -85,7 +85,7 @@ if (isAwesome) {
  
  
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/anonymousEROS/count.svg" />
+  <img src="https://profile-counter.glitch.me/blkkap/count.svg" />
 
 </div>
 
